@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6tIiPBq5pPANcp85ArKO/GRQsUGCFEFRlJg6rUfGr80=",
+  "Source": "AppCoreToken.Web",
+  "BasePath": "_content/AppCoreToken.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

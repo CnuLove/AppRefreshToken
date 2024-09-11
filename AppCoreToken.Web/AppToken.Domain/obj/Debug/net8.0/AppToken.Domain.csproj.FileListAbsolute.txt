@@ -1,0 +1,11 @@
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\bin\Debug\net8.0\AppToken.Domain.deps.json
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\bin\Debug\net8.0\AppToken.Domain.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\bin\Debug\net8.0\AppToken.Domain.pdb
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.AssemblyInfoInputs.cache
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.AssemblyInfo.cs
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.csproj.CoreCompileInputs.cache
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\refint\AppToken.Domain.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\AppToken.Domain.pdb
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Domain\obj\Debug\net8.0\ref\AppToken.Domain.dll

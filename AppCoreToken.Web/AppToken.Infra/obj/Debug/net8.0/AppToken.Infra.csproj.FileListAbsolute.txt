@@ -1,0 +1,15 @@
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\bin\Debug\net8.0\AppToken.Infra.deps.json
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\bin\Debug\net8.0\AppToken.Infra.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\bin\Debug\net8.0\AppToken.Infra.pdb
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\bin\Debug\net8.0\AppToken.Domain.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\bin\Debug\net8.0\AppToken.Domain.pdb
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.csproj.AssemblyReference.cache
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.AssemblyInfoInputs.cache
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.AssemblyInfo.cs
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.csproj.CoreCompileInputs.cache
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.0572DEC4.Up2Date
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\refint\AppToken.Infra.dll
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\AppToken.Infra.pdb
+D:\Learn\Code\AngularTestingCodes\Core\AppCoreToken\AppCoreToken.Web\AppToken.Infra\obj\Debug\net8.0\ref\AppToken.Infra.dll

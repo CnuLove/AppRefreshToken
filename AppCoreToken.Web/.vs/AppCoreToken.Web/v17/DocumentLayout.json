@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F1A56C-F5B4-4C2E-823E-D48652E7FCE7}|AppCoreToken.Web\\AppCoreToken.Web.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\appcoretoken.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F1A56C-F5B4-4C2E-823E-D48652E7FCE7}|AppCoreToken.Web\\AppCoreToken.Web.csproj|solutionrelative:appcoretoken.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\apptoken.infra\\common\\tokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|solutionrelative:apptoken.infra\\common\\tokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\apptoken.infra\\interface\\itokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|solutionrelative:apptoken.infra\\interface\\itokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\apptoken.infra\\registerservice\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|solutionrelative:apptoken.infra\\registerservice\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F1A56C-F5B4-4C2E-823E-D48652E7FCE7}|AppCoreToken.Web\\AppCoreToken.Web.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\appcoretoken.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F1A56C-F5B4-4C2E-823E-D48652E7FCE7}|AppCoreToken.Web\\AppCoreToken.Web.csproj|solutionrelative:appcoretoken.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|d:\\learn\\code\\angulartestingcodes\\core\\appcoretoken\\appcoretoken.web\\apptoken.infra\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6189D45C-3A32-42B3-9E8A-45E9CBF66503}|AppToken.Infra\\AppToken.Infra.csproj|solutionrelative:apptoken.infra\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenUtils.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Interface\\ITokenUtils.cs",
+              "RelativeDocumentMoniker": "AppToken.Infra\\Interface\\ITokenUtils.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Interface\\ITokenUtils.cs",
+              "RelativeToolTip": "AppToken.Infra\\Interface\\ITokenUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:38:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenUtils.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Common\\TokenUtils.cs",
+              "RelativeDocumentMoniker": "AppToken.Infra\\Common\\TokenUtils.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Common\\TokenUtils.cs",
+              "RelativeToolTip": "AppToken.Infra\\Common\\TokenUtils.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA2wEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:05:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppCoreToken.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AppCoreToken.Web\\Program.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppCoreToken.Web\\Program.cs",
+              "RelativeToolTip": "AppCoreToken.Web\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB4AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:56:06.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppCoreToken.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AppCoreToken.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppCoreToken.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AppCoreToken.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:48:51.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "AppToken.Infra\\Service\\UserService.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\Service\\UserService.cs",
+              "RelativeToolTip": "AppToken.Infra\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:48:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registerservice.cs",
+              "DocumentMoniker": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\RegisterService\\Registerservice.cs",
+              "RelativeDocumentMoniker": "AppToken.Infra\\RegisterService\\Registerservice.cs",
+              "ToolTip": "D:\\Learn\\Code\\AngularTestingCodes\\Core\\AppCoreToken\\AppCoreToken.Web\\AppToken.Infra\\RegisterService\\Registerservice.cs",
+              "RelativeToolTip": "AppToken.Infra\\RegisterService\\Registerservice.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:29:02.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
